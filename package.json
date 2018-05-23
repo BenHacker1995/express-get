@@ -1,0 +1,24 @@
+{
+  "name": "express-get",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenHacker1995/express-get.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenHacker1995/express-get/issues"
+  },
+  "homepage": "https://github.com/BenHacker1995/express-get#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
